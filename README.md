@@ -3,7 +3,7 @@
 
 - Software Enginner student
 
-- current languages that i am learning: Python | Html | Css
+- current languages that i am learning: <strong>Python | Html | Css<strong>
 
 
 
